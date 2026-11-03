@@ -2,7 +2,7 @@
 
 ## Sobre o plugin
 
-Este plugin foi desenvolvido para facilitar a migração das resenhas cadastradas no plugin **Recencio Book Reviews** para o formato de posts nativos do WordPress, utilizando os campos personalizados do **Advanced Custom Fields (ACF)**.
+Este plugin foi desenvolvido **por IA** para facilitar a migração das resenhas cadastradas no plugin **Recencio Book Reviews** para o formato de posts nativos do WordPress, utilizando os campos personalizados do **Advanced Custom Fields (ACF)**.
 
 A ferramenta permite converter as resenhas existentes sem perder os registros originais do Recencio, criando novos posts que podem ser utilizados pelo tema personalizado do site Livros Para Ler.
 
